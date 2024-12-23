@@ -1,4 +1,4 @@
 <template>
-    indexxx
+    indexxx_new
 </template>
 
